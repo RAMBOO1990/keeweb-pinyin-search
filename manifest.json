@@ -5,13 +5,14 @@
   "description": "支持拼音搜索 KeeWeb 条目（标题、用户名、网址等）",
   "author": {
     "name": "KeeWeb Plugin",
-    "email": "",
-    "url": ""
+    "email": "ramboooo@126.com",
+    "url": "https://github.com/RAMBOO1990"
   },
   "licence": "MIT",
-  "url": "",
+  "url": "https://github.com/RAMBOO1990/keeweb-pinyin-search",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvNJZkhzXInTTRFQGcSiZ7dWfHmfOf4exDcd+cw5CX0j378Xvze3GkUyFQubq8ETL/WFule8uT53r7vlPRrkkeq9C74itzJ5llhmKtR7ibSrKCastD0G2dWdplAMznkppTaQOcJfcRRDnrdVi0yq+fa7H/BXMFd2pRZ+5KDwMnqRVyRSYtxys/tUajGnLD1OscDBVXn6oDRaI2xy/YcZDT0wQoYK7/up4f+5tVUlij8bzbs86h3wlMSEs9/B21UwivXRttbK/NpNB2nEedMVVSAhzQPA/NAcYMmJUXTKnQigqjkWoltnxC2ZaSxOWyW5shASiidBocB5i4jjZ2J3rfwIDAQAB",
   "resources": {
-    "js": ""
+    "js": "UxJeGgHBcsfVXVuW2z/bMZLN2eHYTE+1oCQrGN0nC0Jw9/j51/pwnN4meb5Ydr7oaVoLu10vVbk7c5EhYFNTDH1B7zEYGNDT5Q1hD/UMc5C0qqaGSKdTAnBADNA1LQneggECV5zXK666XSWfq0o9Ft6xlYXMEcjz028Xw0yjkvz7HNyGE8HeGBnR02Au6PJFGEhAyNwFWzlA1Ma/W4dvLPFfT6R7g4l/bTP5FSK/95Tg606ByjquIp30uDAGRSoR2VRPQM0OM4yEFpJHpQUNt92J8nsP2YwWMpS/wUYD9169tOcrG70UJSeGwXlJf9701Qm82wSEXRm5V5xmPxvaig=="
   },
   "desktop": false,
   "versionMin": null,
